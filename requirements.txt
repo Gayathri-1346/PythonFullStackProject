@@ -1,0 +1,5 @@
+streamlit>=1.29             #Frontend Framework
+supabase>=2.0.2             #Supabase Client
+fastapi>=0.100.0            #Backend Framework
+uvicorn>=0.23.2             #ASGI Server
+python-dotenv>=1.0.0        #Environment Variable Management
